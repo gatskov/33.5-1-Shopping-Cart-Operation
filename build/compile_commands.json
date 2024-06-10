@@ -1,0 +1,8 @@
+[
+{
+  "directory": "D:/VSCode/ShoppingCarts/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe   -g -o CMakeFiles\\ShoppingCarst.dir\\main.cpp.obj -c D:\\VSCode\\ShoppingCarts\\main.cpp",
+  "file": "D:/VSCode/ShoppingCarts/main.cpp",
+  "output": "CMakeFiles/ShoppingCarst.dir/main.cpp.obj"
+}
+]

@@ -1,0 +1,3 @@
+D:/VSCode/ShoppingCarts/build/CMakeFiles/ShoppingCarst.dir
+D:/VSCode/ShoppingCarts/build/CMakeFiles/edit_cache.dir
+D:/VSCode/ShoppingCarts/build/CMakeFiles/rebuild_cache.dir
